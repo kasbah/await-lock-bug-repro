@@ -1,0 +1,13 @@
+{
+  "name": "repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "CC0-1.0",
+  "type": "module",
+  "dependencies": {
+    "await-lock": "^2.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
