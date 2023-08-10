@@ -1,8 +1,4 @@
 {
-  "compilerOptions": {
-    "module": "es2022",
-    "target": "es2020",
-    "moduleResolution": "node"
-  },
+  "extends": "@tsconfig/node18/tsconfig.json",
   "include": ["example.ts"]
 }
